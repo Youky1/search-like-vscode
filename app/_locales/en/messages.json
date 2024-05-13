@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "search like vscode",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "A search bar like vscode",
+    "description": "The description of the application"
+  }
+}
